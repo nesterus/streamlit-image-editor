@@ -79,7 +79,7 @@ Send2Trash==1.8.0
 setuptools-scm==6.3.2
 six==1.16.0
 smmap==5.0.0
-streamlit==1.2.0
+streamlit==1.0.0
 terminado==0.12.1
 testpath==0.5.0
 tifffile==2021.11.2
