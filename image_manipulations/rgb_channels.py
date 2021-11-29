@@ -18,5 +18,5 @@ def rgb_channels(state,block):
     img[:, :, 2] += abs( b - default)
 
 
-
+#sdfsdfsdf
     state['image'] = img
